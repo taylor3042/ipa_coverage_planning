@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<launch>
+<arg name="topic_name" default="scan"/>
+  <arg name="frame_id" default="base_laser"/>
+  <arg name="port_name" default="/dev/ttyUSB0"/>
+  <arg name="port_baudrate" default="230400"/>
+  <arg name="fix_to_base_link" default="true"/>
+
+  <!-- ldldiar message publisher node -->
+  <node name="LD19" pkg="ipa_room_exploration" type="room_exploration_server" output="screen">
+    <param name="product_name" value="LDLiDAR_LD19"/>
+    <param name="topic_name" value="$(arg topic_name)"/>
+    <param name="frame_id" value="$(arg frame_id)"/>
+    <param name="port_name" value ="$(arg port_name)"/>
+    <param name="port_baudrate" value ="$(arg port_baudrate)"/>
+  </node>
+
+  <node name="base_to_laser" pkg="tf" type="static_transform_publisher"  args="0.0 0.0 0.0 0 0.0 0.0 map my_frame 100" if="$(arg fix_to_base_link)"/>
+
+  <param name="laser_scan_dir" type="bool" value="true"/>
+  <!-- Angle crop setting, Mask data within the set angle range -->
+  <!--    1. Enable angle crop fuction: -->
+  <!--       1.1. enable angle crop,  example: <param name="enable_angle_crop_func" type="bool" value="true"/> -->
+  <!--       1.2. disable angle crop, example: <param name="enable_angle_crop_func" type="bool" value="false"/> -->
+  <param name="enable_angle_crop_func" type="bool" value="false"/>
+	<!-- room exploration server node -->
+	<node ns="room_exploration" pkg="ipa_room_exploration" type="room_exploration_server" name="room_exploration_server" output="screen" respawn="true" respawn_delay="2">
+		<rosparam command="load" file="$(find ipa_room_exploration)/ros/launch/room_exploration_action_server_params.yaml"/>
+	</node>
+ 
+
+	<!-- ACTIVATE IF NEEDED: run cob_map_accessibility_analysis_server -->
+	<!-- include file="$(find ipa_room_exploration)/ros/launch/cob_map_accessibility_analysis.launch"/-->
+
+	<!-- NOT NECESSARY ANYMORE: using direct library interface now, run coverage_check_server -->
+	<!-- include file="$(find ipa_room_exploration)/ros/launch/coverage_check_server.launch"/-->
+	<node pkg="rviz" type="rviz" name="rviz" args="-d $(find ipa_room_exploration)/rviz/try1.rviz" output="screen" respawn="false" respawn_delay="0">
+    <param name="use_sim_time" value="false"/>
+  </node>
+
+
+</launch>

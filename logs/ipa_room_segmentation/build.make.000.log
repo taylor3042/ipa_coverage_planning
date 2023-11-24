@@ -1,0 +1,193 @@
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_lisp[0m
+[  0%] Built target dynamic_reconfigure_generate_messages_lisp
+[35m[1mScanning dependencies of target ipa_room_segmentation_gencfg[0m
+[  4%] [34m[1mGenerating dynamic reconfigure files from cfg/RoomSegmentation.cfg: /home/taylor/room_exp/devel/.private/ipa_room_segmentation/include/ipa_room_segmentation/RoomSegmentationConfig.h /home/taylor/room_exp/devel/.private/ipa_room_segmentation/lib/python3/dist-packages/ipa_room_segmentation/cfg/RoomSegmentationConfig.py[0m
+Generating reconfiguration files for RoomSegmentation in ipa_room_segmentation
+Wrote header file in /home/taylor/room_exp/devel/.private/ipa_room_segmentation/include/ipa_room_segmentation/RoomSegmentationConfig.h
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[  4%] Built target roscpp_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[  4%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  4%] Built target ipa_room_segmentation_gencfg
+[  4%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  4%] Built target geometry_msgs_generate_messages_eus
+[  4%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  4%] Built target roscpp_generate_messages_nodejs
+[  4%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
+[  4%] Built target actionlib_msgs_generate_messages_py
+[  4%] Built target actionlib_generate_messages_cpp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
+[  4%] Built target actionlib_generate_messages_py
+[  4%] Built target rosgraph_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target ipa_building_msgs_generate_messages_py[0m
+[  4%] Built target actionlib_generate_messages_lisp
+[  4%] Built target ipa_building_msgs_generate_messages_py
+[35m[1mScanning dependencies of target _catkin_empty_exported_target[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[  4%] Built target _catkin_empty_exported_target
+[  4%] Built target roscpp_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
+[  4%] Built target actionlib_generate_messages_nodejs
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[  4%] Built target rosgraph_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  4%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[  4%] Built target actionlib_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[  4%] Built target actionlib_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_eus[0m
+[  4%] Built target nav_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[  4%] Built target rosgraph_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target EP_libdlib[0m
+[  4%] Built target EP_libdlib
+[35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
+[  4%] Built target actionlib_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[  4%] Built target actionlib_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[  4%] Built target roscpp_generate_messages_py
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[  4%] Built target rosgraph_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  4%] Built target nav_msgs_generate_messages_cpp
+[  4%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_py[0m
+[  4%] Built target actionlib_msgs_generate_messages_eus
+[  4%] Built target dynamic_reconfigure_generate_messages_py
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[  4%] Built target nav_msgs_generate_messages_nodejs
+[  4%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[  4%] Built target dynamic_reconfigure_generate_messages_nodejs
+[  4%] Built target sensor_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[  4%] Built target sensor_msgs_generate_messages_lisp
+[  4%] Built target sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[  4%] Built target geometry_msgs_generate_messages_py
+[  4%] Built target sensor_msgs_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_py[0m
+[  4%] Built target geometry_msgs_generate_messages_cpp
+[  4%] Built target nav_msgs_generate_messages_py
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target ipa_building_msgs_generate_messages_cpp[0m
+[  4%] Built target rosgraph_msgs_generate_messages_lisp
+[  4%] Built target ipa_building_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target ipa_building_msgs_generate_messages_eus[0m
+[  4%] Built target geometry_msgs_generate_messages_lisp
+[  4%] Built target ipa_building_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target ipa_building_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[  4%] Built target ipa_building_msgs_generate_messages_lisp
+[  4%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_eus[0m
+[35m[1mScanning dependencies of target dynamic_reconfigure_gencfg[0m
+[  4%] Built target dynamic_reconfigure_generate_messages_eus
+[  4%] Built target dynamic_reconfigure_gencfg
+[35m[1mScanning dependencies of target ipa_building_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_lisp[0m
+[  4%] Built target ipa_building_msgs_generate_messages_nodejs
+[  4%] Built target nav_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target EP_opengm[0m
+[  4%] Built target EP_opengm
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_cpp[0m
+[  4%] Built target dynamic_reconfigure_generate_messages_cpp
+[35m[1mScanning dependencies of target evaluation[0m
+[35m[1mScanning dependencies of target ipa_room_segmentation[0m
+[  8%] [32mBuilding CXX object CMakeFiles/evaluation.dir/ros/src/evaluation_numeric_properties.cpp.o[0m
+[ 12%] [32mBuilding CXX object CMakeFiles/ipa_room_segmentation.dir/common/src/distance_segmentation.cpp.o[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/evaluation.dir/common/src/evaluation_segmentation.cpp.o[0m
+[ 20%] [32mBuilding CXX object CMakeFiles/ipa_room_segmentation.dir/common/src/morphological_segmentation.cpp.o[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/ipa_room_segmentation.dir/common/src/abstract_voronoi_segmentation.cpp.o[0m
+[ 29%] [32mBuilding CXX object CMakeFiles/ipa_room_segmentation.dir/common/src/voronoi_segmentation.cpp.o[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/ipa_room_segmentation.dir/common/src/adaboost_classifier.cpp.o[0m
+[ 37%] [32mBuilding CXX object CMakeFiles/ipa_room_segmentation.dir/common/src/wavefront_region_growing.cpp.o[0m
+[ 41%] [32mBuilding CXX object CMakeFiles/ipa_room_segmentation.dir/common/src/contains.cpp.o[0m
+[ 45%] [32mBuilding CXX object CMakeFiles/ipa_room_segmentation.dir/common/src/features.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/ipa_room_segmentation.dir/common/src/raycasting.cpp.o[0m
+[ 54%] [32mBuilding CXX object CMakeFiles/ipa_room_segmentation.dir/common/src/meanshift2d.cpp.o[0m
+[ 58%] [32mBuilding CXX object CMakeFiles/ipa_room_segmentation.dir/common/src/room_class.cpp.o[0m
+[01m[K/home/taylor/room_exp/src/ipa_room_segmentation/common/src/features.cpp:[m[K In member function ‘[01m[Kdouble LaserScannerFeatures::get_feature(const std::vector<double, std::allocator<double> >&, const std::vector<double, std::allocator<double> >&, cv::Point, int)[m[K’:
+[01m[K/home/taylor/room_exp/src/ipa_room_segmentation/common/src/features.cpp:83:1:[m[K [01;35m[Kwarning: [m[Kcontrol reaches end of non-void function [[01;35m[K-Wreturn-type[m[K]
+   83 | [01;35m[K}[m[K
+      | [01;35m[K^[m[K
+[ 62%] [32mBuilding CXX object CMakeFiles/ipa_room_segmentation.dir/common/src/voronoi_random_field_segmentation.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/ipa_room_segmentation.dir/common/src/clique_class.cpp.o[0m
+[ 70%] [32mBuilding CXX object CMakeFiles/ipa_room_segmentation.dir/common/src/cv_boost_loader.cpp.o[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/ipa_room_segmentation.dir/common/src/voronoi_random_field_features.cpp.o[0m
+[35m[1mScanning dependencies of target room_segmentation_client[0m
+[ 79%] [32mBuilding CXX object CMakeFiles/room_segmentation_client.dir/ros/src/room_segmentation_client.cpp.o[0m
+[ 83%] [32m[1mLinking CXX executable /home/taylor/room_exp/devel/.private/ipa_room_segmentation/lib/ipa_room_segmentation/evaluation[0m
+[ 83%] Built target evaluation
+In file included from [01m[K/opt/ros/noetic/include/opengm/graphicalmodel/graphicalmodel.hxx:11[m[K,
+                 from [01m[K/home/taylor/room_exp/src/ipa_room_segmentation/common/include/ipa_room_segmentation/voronoi_random_field_segmentation.h:78[m[K,
+                 from [01m[K/home/taylor/room_exp/src/ipa_room_segmentation/common/src/voronoi_random_field_segmentation.cpp:60[m[K:
+/opt/ros/noetic/include/opengm/datastructures/fast_sequence.hxx: In instantiation of ‘[01m[Kopengm::FastSequence<T, MAX_STACK>::~FastSequence() [with T = long unsigned int; long unsigned int MAX_STACK = 5][m[K’:
+[01m[K/opt/ros/noetic/include/opengm/graphicalmodel/graphicalmodel_factor.hxx:1581:39:[m[K   required from ‘[01m[Kvoid opengm::IndependentFactor<T, I, L>::fixVariables(INDEX_ITERATOR, INDEX_ITERATOR, STATE_ITERATOR) [with INDEX_ITERATOR = __gnu_cxx::__normal_iterator<long unsigned int*, std::vector<long unsigned int> >; STATE_ITERATOR = __gnu_cxx::__normal_iterator<long unsigned int*, std::vector<long unsigned int> >; T = double; I = long unsigned int; L = long unsigned int][m[K’
+[01m[K/opt/ros/noetic/include/opengm/inference/inference.hxx:199:19:[m[K   required from ‘[01m[Kopengm::InferenceTermination opengm::Inference<GM, ACC>::constrainedOptimum(std::vector<typename A::IndexType>&, std::vector<typename A::LabelType>&, std::vector<typename A::LabelType>&) const [with GM = opengm::GraphicalModel<double, opengm::Adder, opengm::ExplicitFunction<double>, opengm::SimpleDiscreteSpace<long unsigned int, long unsigned int> >; ACC = opengm::Maximizer; typename A::IndexType = long unsigned int; typename A::LabelType = long unsigned int][m[K’
+[01m[K/opt/ros/noetic/include/opengm/inference/inference.hxx:395:11:[m[K   required from ‘[01m[Kopengm::InferenceTermination opengm::Inference<GM, ACC>::modeFromFactorMarginal(std::vector<typename A::LabelType>&) const [with GM = opengm::GraphicalModel<double, opengm::Adder, opengm::ExplicitFunction<double>, opengm::SimpleDiscreteSpace<long unsigned int, long unsigned int> >; ACC = opengm::Maximizer; typename A::LabelType = long unsigned int][m[K’
+[01m[K/opt/ros/noetic/include/opengm/inference/messagepassing/messagepassing.hxx:631:50:[m[K   required from ‘[01m[Kopengm::InferenceTermination opengm::MessagePassing<GM, ACC, UPDATE_RULES, DIST>::arg(std::vector<typename A::LabelType>&, size_t) const [with GM = opengm::GraphicalModel<double, opengm::Adder, opengm::ExplicitFunction<double>, opengm::SimpleDiscreteSpace<long unsigned int, long unsigned int> >; ACC = opengm::Maximizer; UPDATE_RULES = opengm::BeliefPropagationUpdateRules<opengm::GraphicalModel<double, opengm::Adder, opengm::ExplicitFunction<double>, opengm::SimpleDiscreteSpace<long unsigned int, long unsigned int> >, opengm::Maximizer>; DIST = opengm::MaxDistance; typename A::LabelType = long unsigned int; size_t = long unsigned int][m[K’
+[01m[K/home/taylor/room_exp/src/ipa_room_segmentation/common/src/voronoi_random_field_segmentation.cpp:1537:36:[m[K   required from here
+[01m[K/opt/ros/noetic/include/opengm/opengm.hxx:82:42:[m[K [01;35m[Kwarning: [m[Kthrow will always call terminate() [[01;35m[K-Wterminate[m[K]
+   82 |          throw std::runtime_error(s.str()[01;35m[K)[m[K; \
+      |                                          [01;35m[K^[m[K
+[01m[K/opt/ros/noetic/include/opengm/datastructures/fast_sequence.hxx:137:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KOPENGM_ASSERT[m[K’
+  137 |       [01;36m[KOPENGM_ASSERT[m[K(pointerToSequence_!=NULL);
+      |       [01;36m[K^~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/opengm/opengm.hxx:82:42:[m[K [01;36m[Knote: [m[Kin C++11 destructors default to noexcept
+   82 |          throw std::runtime_error(s.str()[01;36m[K)[m[K; \
+      |                                          [01;36m[K^[m[K
+[01m[K/opt/ros/noetic/include/opengm/datastructures/fast_sequence.hxx:137:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KOPENGM_ASSERT[m[K’
+  137 |       [01;36m[KOPENGM_ASSERT[m[K(pointerToSequence_!=NULL);
+      |       [01;36m[K^~~~~~~~~~~~~[m[K
+/opt/ros/noetic/include/opengm/datastructures/fast_sequence.hxx: In instantiation of ‘[01m[Kopengm::FastSequence<T, MAX_STACK>::~FastSequence() [with T = bool; long unsigned int MAX_STACK = 5][m[K’:
+[01m[K/opt/ros/noetic/include/opengm/utilities/indexing.hxx:293:10:[m[K   required from ‘[01m[Kstatic void opengm::BinaryOperationInplaceImpl<A, B, OP>::op(A&, const B&, VI_A&, const VI_B&, OP) [with VI_A = std::vector<long unsigned int>; VI_B = std::vector<long unsigned int>; A = opengm::ExplicitFunction<double>; B = opengm::ExplicitFunction<double>; OP = std::plus<double>][m[K’
+[01m[K/opt/ros/noetic/include/opengm/graphicalmodel/graphicalmodel_factor_operator.hxx:187:42:[m[K   required from ‘[01m[Kstatic void opengm::functionwrapper::executor::binary::InplaceOperationExecutor<A, B, OP, IY, DY, false>::op(A&, const B&, OP, size_t) [with A = opengm::IndependentFactor<double, long unsigned int, long unsigned int>; B = opengm::IndependentFactor<double, long unsigned int, long unsigned int>; OP = std::plus<double>; long unsigned int IY = 0; long unsigned int DY = 1; size_t = long unsigned int][m[K’
+[01m[K/opt/ros/noetic/include/opengm/graphicalmodel/graphicalmodel_factor_operator.hxx:547:29:[m[K   required from ‘[01m[Kstatic void opengm::functionwrapper::binary::InplaceOperationWrapper<A, B, OP, opengm::functionwrapper::IndependentFactorFlag, opengm::functionwrapper::IndependentFactorOrFactorFlag>::op(A&, const B&, OP) [with A = opengm::IndependentFactor<double, long unsigned int, long unsigned int>; B = opengm::IndependentFactor<double, long unsigned int, long unsigned int>; OP = std::plus<double>][m[K’
+[01m[K/opt/ros/noetic/include/opengm/graphicalmodel/graphicalmodel_factor_operator.hxx:581:36:[m[K   required from ‘[01m[Kstatic void opengm::functionwrapper::binary::InplaceOperationWrapperSelector<A, B, OP>::op(A&, const B&, OP) [with A = opengm::IndependentFactor<double, long unsigned int, long unsigned int>; B = opengm::IndependentFactor<double, long unsigned int, long unsigned int>; OP = std::plus<double>][m[K’
+[01m[K/opt/ros/noetic/include/opengm/graphicalmodel/graphicalmodel_factor_operator.hxx:607:74:[m[K   [ skipping 2 instantiation contexts, use -ftemplate-backtrace-limit=0 to disable ]
+[01m[K/opt/ros/noetic/include/opengm/graphicalmodel/graphicalmodel_factor.hxx:1771:1:[m[K   required from ‘[01m[Kopengm::IndependentFactor<T, I, L>& opengm::operator+=(opengm::IndependentFactor<T, I, L>&, const opengm::IndependentFactor<T, I, L>&) [with T = double; I = long unsigned int; L = long unsigned int][m[K’
+[01m[K/opt/ros/noetic/include/opengm/operations/adder.hxx:35:16:[m[K   required from ‘[01m[Kstatic void opengm::Adder::op(const T1&, T2&) [with T1 = opengm::IndependentFactor<double, long unsigned int, long unsigned int>; T2 = opengm::IndependentFactor<double, long unsigned int, long unsigned int>][m[K’
+[01m[K/opt/ros/noetic/include/opengm/inference/inference.hxx:202:35:[m[K   required from ‘[01m[Kopengm::InferenceTermination opengm::Inference<GM, ACC>::constrainedOptimum(std::vector<typename A::IndexType>&, std::vector<typename A::LabelType>&, std::vector<typename A::LabelType>&) const [with GM = opengm::GraphicalModel<double, opengm::Adder, opengm::ExplicitFunction<double>, opengm::SimpleDiscreteSpace<long unsigned int, long unsigned int> >; ACC = opengm::Maximizer; typename A::IndexType = long unsigned int; typename A::LabelType = long unsigned int][m[K’
+[01m[K/opt/ros/noetic/include/opengm/inference/inference.hxx:395:11:[m[K   required from ‘[01m[Kopengm::InferenceTermination opengm::Inference<GM, ACC>::modeFromFactorMarginal(std::vector<typename A::LabelType>&) const [with GM = opengm::GraphicalModel<double, opengm::Adder, opengm::ExplicitFunction<double>, opengm::SimpleDiscreteSpace<long unsigned int, long unsigned int> >; ACC = opengm::Maximizer; typename A::LabelType = long unsigned int][m[K’
+[01m[K/opt/ros/noetic/include/opengm/inference/messagepassing/messagepassing.hxx:631:50:[m[K   required from ‘[01m[Kopengm::InferenceTermination opengm::MessagePassing<GM, ACC, UPDATE_RULES, DIST>::arg(std::vector<typename A::LabelType>&, size_t) const [with GM = opengm::GraphicalModel<double, opengm::Adder, opengm::ExplicitFunction<double>, opengm::SimpleDiscreteSpace<long unsigned int, long unsigned int> >; ACC = opengm::Maximizer; UPDATE_RULES = opengm::BeliefPropagationUpdateRules<opengm::GraphicalModel<double, opengm::Adder, opengm::ExplicitFunction<double>, opengm::SimpleDiscreteSpace<long unsigned int, long unsigned int> >, opengm::Maximizer>; DIST = opengm::MaxDistance; typename A::LabelType = long unsigned int; size_t = long unsigned int][m[K’
+[01m[K/home/taylor/room_exp/src/ipa_room_segmentation/common/src/voronoi_random_field_segmentation.cpp:1537:36:[m[K   required from here
+[01m[K/opt/ros/noetic/include/opengm/opengm.hxx:82:42:[m[K [01;35m[Kwarning: [m[Kthrow will always call terminate() [[01;35m[K-Wterminate[m[K]
+   82 |          throw std::runtime_error(s.str()[01;35m[K)[m[K; \
+      |                                          [01;35m[K^[m[K
+[01m[K/opt/ros/noetic/include/opengm/datastructures/fast_sequence.hxx:137:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KOPENGM_ASSERT[m[K’
+  137 |       [01;36m[KOPENGM_ASSERT[m[K(pointerToSequence_!=NULL);
+      |       [01;36m[K^~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/opengm/opengm.hxx:82:42:[m[K [01;36m[Knote: [m[Kin C++11 destructors default to noexcept
+   82 |          throw std::runtime_error(s.str()[01;36m[K)[m[K; \
+      |                                          [01;36m[K^[m[K
+[01m[K/opt/ros/noetic/include/opengm/datastructures/fast_sequence.hxx:137:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KOPENGM_ASSERT[m[K’
+  137 |       [01;36m[KOPENGM_ASSERT[m[K(pointerToSequence_!=NULL);
+      |       [01;36m[K^~~~~~~~~~~~~[m[K
+[ 87%] [32m[1mLinking CXX executable /home/taylor/room_exp/devel/.private/ipa_room_segmentation/lib/ipa_room_segmentation/room_segmentation_client[0m
+[ 87%] Built target room_segmentation_client
+[ 91%] [32m[1mLinking CXX static library /home/taylor/room_exp/devel/.private/ipa_room_segmentation/lib/libipa_room_segmentation.a[0m
+[ 91%] Built target ipa_room_segmentation
+[35m[1mScanning dependencies of target room_segmentation_server[0m
+[ 95%] [32mBuilding CXX object CMakeFiles/room_segmentation_server.dir/ros/src/room_segmentation_server.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/taylor/room_exp/devel/.private/ipa_room_segmentation/lib/ipa_room_segmentation/room_segmentation_server[0m
+[100%] Built target room_segmentation_server

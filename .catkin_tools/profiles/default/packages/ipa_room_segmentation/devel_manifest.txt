@@ -1,0 +1,16 @@
+ipa_room_segmentation
+/home/taylor/room_exp/devel/.private/ipa_room_segmentation/cmake.lock /home/taylor/room_exp/devel/./cmake.lock
+/home/taylor/room_exp/devel/.private/ipa_room_segmentation/lib/libipa_room_segmentation.a /home/taylor/room_exp/devel/lib/libipa_room_segmentation.a
+/home/taylor/room_exp/devel/.private/ipa_room_segmentation/lib/ipa_room_segmentation/evaluation /home/taylor/room_exp/devel/lib/ipa_room_segmentation/evaluation
+/home/taylor/room_exp/devel/.private/ipa_room_segmentation/lib/ipa_room_segmentation/room_segmentation_client /home/taylor/room_exp/devel/lib/ipa_room_segmentation/room_segmentation_client
+/home/taylor/room_exp/devel/.private/ipa_room_segmentation/lib/ipa_room_segmentation/room_segmentation_server /home/taylor/room_exp/devel/lib/ipa_room_segmentation/room_segmentation_server
+/home/taylor/room_exp/devel/.private/ipa_room_segmentation/lib/pkgconfig/ipa_room_segmentation.pc /home/taylor/room_exp/devel/lib/pkgconfig/ipa_room_segmentation.pc
+/home/taylor/room_exp/devel/.private/ipa_room_segmentation/lib/python3/dist-packages/ipa_room_segmentation/__init__.py /home/taylor/room_exp/devel/lib/python3/dist-packages/ipa_room_segmentation/__init__.py
+/home/taylor/room_exp/devel/.private/ipa_room_segmentation/lib/python3/dist-packages/ipa_room_segmentation/cfg/__init__.py /home/taylor/room_exp/devel/lib/python3/dist-packages/ipa_room_segmentation/cfg/__init__.py
+/home/taylor/room_exp/devel/.private/ipa_room_segmentation/lib/python3/dist-packages/ipa_room_segmentation/cfg/RoomSegmentationConfig.py /home/taylor/room_exp/devel/lib/python3/dist-packages/ipa_room_segmentation/cfg/RoomSegmentationConfig.py
+/home/taylor/room_exp/devel/.private/ipa_room_segmentation/include/ipa_room_segmentation/RoomSegmentationConfig.h /home/taylor/room_exp/devel/include/ipa_room_segmentation/RoomSegmentationConfig.h
+/home/taylor/room_exp/devel/.private/ipa_room_segmentation/share/ipa_room_segmentation/cmake/ipa_room_segmentationConfig.cmake /home/taylor/room_exp/devel/share/ipa_room_segmentation/cmake/ipa_room_segmentationConfig.cmake
+/home/taylor/room_exp/devel/.private/ipa_room_segmentation/share/ipa_room_segmentation/cmake/ipa_room_segmentationConfig-version.cmake /home/taylor/room_exp/devel/share/ipa_room_segmentation/cmake/ipa_room_segmentationConfig-version.cmake
+/home/taylor/room_exp/devel/.private/ipa_room_segmentation/share/ipa_room_segmentation/docs/RoomSegmentationConfig.dox /home/taylor/room_exp/devel/share/ipa_room_segmentation/docs/RoomSegmentationConfig.dox
+/home/taylor/room_exp/devel/.private/ipa_room_segmentation/share/ipa_room_segmentation/docs/RoomSegmentationConfig-usage.dox /home/taylor/room_exp/devel/share/ipa_room_segmentation/docs/RoomSegmentationConfig-usage.dox
+/home/taylor/room_exp/devel/.private/ipa_room_segmentation/share/ipa_room_segmentation/docs/RoomSegmentationConfig.wikidoc /home/taylor/room_exp/devel/share/ipa_room_segmentation/docs/RoomSegmentationConfig.wikidoc

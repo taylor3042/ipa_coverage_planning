@@ -1,0 +1,57 @@
+Symlinking /home/taylor/room_exp/devel/lib/libipa_room_segmentation.a
+Symlinking /home/taylor/room_exp/devel/lib/ipa_room_segmentation/evaluation
+Symlinking /home/taylor/room_exp/devel/lib/ipa_room_segmentation/room_segmentation_client
+Symlinking /home/taylor/room_exp/devel/lib/ipa_room_segmentation/room_segmentation_server
+Symlinking /home/taylor/room_exp/devel/lib/pkgconfig/ipa_room_segmentation.pc
+Symlinking /home/taylor/room_exp/devel/lib/python3/dist-packages/ipa_room_segmentation/__init__.py
+Symlinking /home/taylor/room_exp/devel/lib/python3/dist-packages/ipa_room_segmentation/cfg/__init__.py
+Symlinking /home/taylor/room_exp/devel/lib/python3/dist-packages/ipa_room_segmentation/cfg/RoomSegmentationConfig.py
+Symlinking /home/taylor/room_exp/devel/include/ipa_room_segmentation/RoomSegmentationConfig.h
+Symlinking /home/taylor/room_exp/devel/share/ipa_room_segmentation/cmake/ipa_room_segmentationConfig.cmake
+Symlinking /home/taylor/room_exp/devel/share/ipa_room_segmentation/cmake/ipa_room_segmentationConfig-version.cmake
+Symlinking /home/taylor/room_exp/devel/share/ipa_room_segmentation/docs/RoomSegmentationConfig.dox
+Symlinking /home/taylor/room_exp/devel/share/ipa_room_segmentation/docs/RoomSegmentationConfig-usage.dox
+Symlinking /home/taylor/room_exp/devel/share/ipa_room_segmentation/docs/RoomSegmentationConfig.wikidoc
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_room_segmentation/cmake.lock, /home/taylor/ipa_coverage_planning/devel/./cmake.lock)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_room_segmentation/lib/libipa_room_segmentation.a, /home/taylor/ipa_coverage_planning/devel/lib/libipa_room_segmentation.a)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_room_segmentation/lib/ipa_room_segmentation/evaluation, /home/taylor/ipa_coverage_planning/devel/lib/ipa_room_segmentation/evaluation)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_room_segmentation/lib/ipa_room_segmentation/room_segmentation_client, /home/taylor/ipa_coverage_planning/devel/lib/ipa_room_segmentation/room_segmentation_client)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_room_segmentation/lib/ipa_room_segmentation/room_segmentation_server, /home/taylor/ipa_coverage_planning/devel/lib/ipa_room_segmentation/room_segmentation_server)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_room_segmentation/lib/pkgconfig/ipa_room_segmentation.pc, /home/taylor/ipa_coverage_planning/devel/lib/pkgconfig/ipa_room_segmentation.pc)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_room_segmentation/lib/python3/dist-packages/ipa_room_segmentation/__init__.py, /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_room_segmentation/__init__.py)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_room_segmentation/lib/python3/dist-packages/ipa_room_segmentation/cfg/__init__.py, /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_room_segmentation/cfg/__init__.py)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_room_segmentation/lib/python3/dist-packages/ipa_room_segmentation/cfg/RoomSegmentationConfig.py, /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_room_segmentation/cfg/RoomSegmentationConfig.py)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_room_segmentation/include/ipa_room_segmentation/RoomSegmentationConfig.h, /home/taylor/ipa_coverage_planning/devel/include/ipa_room_segmentation/RoomSegmentationConfig.h)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_room_segmentation/share/ipa_room_segmentation/cmake/ipa_room_segmentationConfig.cmake, /home/taylor/ipa_coverage_planning/devel/share/ipa_room_segmentation/cmake/ipa_room_segmentationConfig.cmake)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_room_segmentation/share/ipa_room_segmentation/cmake/ipa_room_segmentationConfig-version.cmake, /home/taylor/ipa_coverage_planning/devel/share/ipa_room_segmentation/cmake/ipa_room_segmentationConfig-version.cmake)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_room_segmentation/share/ipa_room_segmentation/docs/RoomSegmentationConfig.dox, /home/taylor/ipa_coverage_planning/devel/share/ipa_room_segmentation/docs/RoomSegmentationConfig.dox)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_room_segmentation/share/ipa_room_segmentation/docs/RoomSegmentationConfig-usage.dox, /home/taylor/ipa_coverage_planning/devel/share/ipa_room_segmentation/docs/RoomSegmentationConfig-usage.dox)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_room_segmentation/share/ipa_room_segmentation/docs/RoomSegmentationConfig.wikidoc, /home/taylor/ipa_coverage_planning/devel/share/ipa_room_segmentation/docs/RoomSegmentationConfig.wikidoc)
+Unlinking: /home/taylor/ipa_coverage_planning/devel/lib/libipa_room_segmentation.a
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/lib/ipa_room_segmentation/evaluation
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/lib/ipa_room_segmentation/room_segmentation_client
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/lib/ipa_room_segmentation/room_segmentation_server
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/lib/pkgconfig/ipa_room_segmentation.pc
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_room_segmentation/__init__.py
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_room_segmentation/cfg/__init__.py
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_room_segmentation/cfg/RoomSegmentationConfig.py
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/include/ipa_room_segmentation/RoomSegmentationConfig.h
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/ipa_room_segmentation/cmake/ipa_room_segmentationConfig.cmake
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/ipa_room_segmentation/cmake/ipa_room_segmentationConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/ipa_room_segmentation/docs/RoomSegmentationConfig.dox
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/ipa_room_segmentation/docs/RoomSegmentationConfig-usage.dox
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/ipa_room_segmentation/docs/RoomSegmentationConfig.wikidoc
+Already unlinked: {}

@@ -1,0 +1,65 @@
+Symlinking /home/taylor/room_exp/devel/lib/libtsp_solvers.so
+Symlinking /home/taylor/room_exp/devel/lib/libipa_building_navigation.a
+Symlinking /home/taylor/room_exp/devel/lib/ipa_building_navigation/room_sequence_planning_client
+Symlinking /home/taylor/room_exp/devel/lib/ipa_building_navigation/TSP_evaluation
+Symlinking /home/taylor/room_exp/devel/lib/ipa_building_navigation/room_sequence_planning_evaluation
+Symlinking /home/taylor/room_exp/devel/lib/ipa_building_navigation/room_sequence_planning_server
+Symlinking /home/taylor/room_exp/devel/lib/pkgconfig/ipa_building_navigation.pc
+Symlinking /home/taylor/room_exp/devel/lib/python3/dist-packages/ipa_building_navigation/__init__.py
+Symlinking /home/taylor/room_exp/devel/lib/python3/dist-packages/ipa_building_navigation/cfg/BuildingNavigationConfig.py
+Symlinking /home/taylor/room_exp/devel/lib/python3/dist-packages/ipa_building_navigation/cfg/__init__.py
+Symlinking /home/taylor/room_exp/devel/include/ipa_building_navigation/BuildingNavigationConfig.h
+Symlinking /home/taylor/room_exp/devel/share/ipa_building_navigation/cmake/ipa_building_navigationConfig.cmake
+Symlinking /home/taylor/room_exp/devel/share/ipa_building_navigation/cmake/ipa_building_navigationConfig-version.cmake
+Symlinking /home/taylor/room_exp/devel/share/ipa_building_navigation/docs/BuildingNavigationConfig.wikidoc
+Symlinking /home/taylor/room_exp/devel/share/ipa_building_navigation/docs/BuildingNavigationConfig.dox
+Symlinking /home/taylor/room_exp/devel/share/ipa_building_navigation/docs/BuildingNavigationConfig-usage.dox
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_navigation/cmake.lock, /home/taylor/ipa_coverage_planning/devel/./cmake.lock)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_navigation/lib/libtsp_solvers.so, /home/taylor/ipa_coverage_planning/devel/lib/libtsp_solvers.so)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_navigation/lib/libipa_building_navigation.a, /home/taylor/ipa_coverage_planning/devel/lib/libipa_building_navigation.a)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_navigation/lib/ipa_building_navigation/room_sequence_planning_client, /home/taylor/ipa_coverage_planning/devel/lib/ipa_building_navigation/room_sequence_planning_client)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_navigation/lib/ipa_building_navigation/TSP_evaluation, /home/taylor/ipa_coverage_planning/devel/lib/ipa_building_navigation/TSP_evaluation)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_navigation/lib/ipa_building_navigation/room_sequence_planning_evaluation, /home/taylor/ipa_coverage_planning/devel/lib/ipa_building_navigation/room_sequence_planning_evaluation)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_navigation/lib/ipa_building_navigation/room_sequence_planning_server, /home/taylor/ipa_coverage_planning/devel/lib/ipa_building_navigation/room_sequence_planning_server)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_navigation/lib/pkgconfig/ipa_building_navigation.pc, /home/taylor/ipa_coverage_planning/devel/lib/pkgconfig/ipa_building_navigation.pc)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_navigation/lib/python3/dist-packages/ipa_building_navigation/__init__.py, /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_navigation/__init__.py)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_navigation/lib/python3/dist-packages/ipa_building_navigation/cfg/BuildingNavigationConfig.py, /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_navigation/cfg/BuildingNavigationConfig.py)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_navigation/lib/python3/dist-packages/ipa_building_navigation/cfg/__init__.py, /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_navigation/cfg/__init__.py)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_navigation/include/ipa_building_navigation/BuildingNavigationConfig.h, /home/taylor/ipa_coverage_planning/devel/include/ipa_building_navigation/BuildingNavigationConfig.h)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_navigation/share/ipa_building_navigation/cmake/ipa_building_navigationConfig.cmake, /home/taylor/ipa_coverage_planning/devel/share/ipa_building_navigation/cmake/ipa_building_navigationConfig.cmake)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_navigation/share/ipa_building_navigation/cmake/ipa_building_navigationConfig-version.cmake, /home/taylor/ipa_coverage_planning/devel/share/ipa_building_navigation/cmake/ipa_building_navigationConfig-version.cmake)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_navigation/share/ipa_building_navigation/docs/BuildingNavigationConfig.wikidoc, /home/taylor/ipa_coverage_planning/devel/share/ipa_building_navigation/docs/BuildingNavigationConfig.wikidoc)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_navigation/share/ipa_building_navigation/docs/BuildingNavigationConfig.dox, /home/taylor/ipa_coverage_planning/devel/share/ipa_building_navigation/docs/BuildingNavigationConfig.dox)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_navigation/share/ipa_building_navigation/docs/BuildingNavigationConfig-usage.dox, /home/taylor/ipa_coverage_planning/devel/share/ipa_building_navigation/docs/BuildingNavigationConfig-usage.dox)
+Unlinking: /home/taylor/ipa_coverage_planning/devel/lib/libtsp_solvers.so
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/lib/libipa_building_navigation.a
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/lib/ipa_building_navigation/room_sequence_planning_client
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/lib/ipa_building_navigation/TSP_evaluation
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/lib/ipa_building_navigation/room_sequence_planning_evaluation
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/lib/ipa_building_navigation/room_sequence_planning_server
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/lib/pkgconfig/ipa_building_navigation.pc
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_navigation/__init__.py
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_navigation/cfg/BuildingNavigationConfig.py
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_navigation/cfg/__init__.py
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/include/ipa_building_navigation/BuildingNavigationConfig.h
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/ipa_building_navigation/cmake/ipa_building_navigationConfig.cmake
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/ipa_building_navigation/cmake/ipa_building_navigationConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/ipa_building_navigation/docs/BuildingNavigationConfig.wikidoc
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/ipa_building_navigation/docs/BuildingNavigationConfig.dox
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/ipa_building_navigation/docs/BuildingNavigationConfig-usage.dox
+Already unlinked: {}

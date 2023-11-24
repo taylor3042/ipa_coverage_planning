@@ -1,0 +1,765 @@
+Symlinking /home/taylor/room_exp/devel/lib/pkgconfig/ipa_building_msgs.pc
+Symlinking /home/taylor/room_exp/devel/lib/python3/dist-packages/ipa_building_msgs/__init__.py
+Symlinking /home/taylor/room_exp/devel/lib/python3/dist-packages/ipa_building_msgs/srv/_ExtractAreaMapFromLabeledMap.py
+Symlinking /home/taylor/room_exp/devel/lib/python3/dist-packages/ipa_building_msgs/srv/_CheckCoverage.py
+Symlinking /home/taylor/room_exp/devel/lib/python3/dist-packages/ipa_building_msgs/srv/__init__.py
+Symlinking /home/taylor/room_exp/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_RoomExplorationActionFeedback.py
+Symlinking /home/taylor/room_exp/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_MapSegmentationGoal.py
+Symlinking /home/taylor/room_exp/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_RoomInformation.py
+Symlinking /home/taylor/room_exp/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_MapSegmentationActionResult.py
+Symlinking /home/taylor/room_exp/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_FindRoomSequenceWithCheckpointsActionResult.py
+Symlinking /home/taylor/room_exp/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_RoomExplorationActionGoal.py
+Symlinking /home/taylor/room_exp/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_FindRoomSequenceWithCheckpointsGoal.py
+Symlinking /home/taylor/room_exp/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_RoomExplorationAction.py
+Symlinking /home/taylor/room_exp/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_MapSegmentationFeedback.py
+Symlinking /home/taylor/room_exp/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_FindRoomSequenceWithCheckpointsAction.py
+Symlinking /home/taylor/room_exp/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_MapSegmentationResult.py
+Symlinking /home/taylor/room_exp/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_RoomExplorationGoal.py
+Symlinking /home/taylor/room_exp/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_RoomSequence.py
+Symlinking /home/taylor/room_exp/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_RoomExplorationActionResult.py
+Symlinking /home/taylor/room_exp/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_MapSegmentationAction.py
+Symlinking /home/taylor/room_exp/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_RoomExplorationFeedback.py
+Symlinking /home/taylor/room_exp/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_FindRoomSequenceWithCheckpointsActionGoal.py
+Symlinking /home/taylor/room_exp/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_FindRoomSequenceWithCheckpointsResult.py
+Symlinking /home/taylor/room_exp/devel/lib/python3/dist-packages/ipa_building_msgs/msg/__init__.py
+Symlinking /home/taylor/room_exp/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_FindRoomSequenceWithCheckpointsFeedback.py
+Symlinking /home/taylor/room_exp/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_RoomExplorationResult.py
+Symlinking /home/taylor/room_exp/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_FindRoomSequenceWithCheckpointsActionFeedback.py
+Symlinking /home/taylor/room_exp/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_MapSegmentationActionGoal.py
+Symlinking /home/taylor/room_exp/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_MapSegmentationActionFeedback.py
+Symlinking /home/taylor/room_exp/devel/include/ipa_building_msgs/FindRoomSequenceWithCheckpointsGoal.h
+Symlinking /home/taylor/room_exp/devel/include/ipa_building_msgs/FindRoomSequenceWithCheckpointsActionGoal.h
+Symlinking /home/taylor/room_exp/devel/include/ipa_building_msgs/ExtractAreaMapFromLabeledMapRequest.h
+Symlinking /home/taylor/room_exp/devel/include/ipa_building_msgs/RoomInformation.h
+Symlinking /home/taylor/room_exp/devel/include/ipa_building_msgs/ExtractAreaMapFromLabeledMapResponse.h
+Symlinking /home/taylor/room_exp/devel/include/ipa_building_msgs/MapSegmentationActionGoal.h
+Symlinking /home/taylor/room_exp/devel/include/ipa_building_msgs/MapSegmentationActionResult.h
+Symlinking /home/taylor/room_exp/devel/include/ipa_building_msgs/FindRoomSequenceWithCheckpointsFeedback.h
+Symlinking /home/taylor/room_exp/devel/include/ipa_building_msgs/MapSegmentationAction.h
+Symlinking /home/taylor/room_exp/devel/include/ipa_building_msgs/RoomExplorationResult.h
+Symlinking /home/taylor/room_exp/devel/include/ipa_building_msgs/FindRoomSequenceWithCheckpointsActionResult.h
+Symlinking /home/taylor/room_exp/devel/include/ipa_building_msgs/RoomExplorationActionFeedback.h
+Symlinking /home/taylor/room_exp/devel/include/ipa_building_msgs/ExtractAreaMapFromLabeledMap.h
+Symlinking /home/taylor/room_exp/devel/include/ipa_building_msgs/MapSegmentationResult.h
+Symlinking /home/taylor/room_exp/devel/include/ipa_building_msgs/RoomExplorationAction.h
+Symlinking /home/taylor/room_exp/devel/include/ipa_building_msgs/FindRoomSequenceWithCheckpointsResult.h
+Symlinking /home/taylor/room_exp/devel/include/ipa_building_msgs/RoomExplorationActionGoal.h
+Symlinking /home/taylor/room_exp/devel/include/ipa_building_msgs/CheckCoverageResponse.h
+Symlinking /home/taylor/room_exp/devel/include/ipa_building_msgs/MapSegmentationFeedback.h
+Symlinking /home/taylor/room_exp/devel/include/ipa_building_msgs/CheckCoverageRequest.h
+Symlinking /home/taylor/room_exp/devel/include/ipa_building_msgs/FindRoomSequenceWithCheckpointsAction.h
+Symlinking /home/taylor/room_exp/devel/include/ipa_building_msgs/RoomExplorationFeedback.h
+Symlinking /home/taylor/room_exp/devel/include/ipa_building_msgs/CheckCoverage.h
+Symlinking /home/taylor/room_exp/devel/include/ipa_building_msgs/MapSegmentationGoal.h
+Symlinking /home/taylor/room_exp/devel/include/ipa_building_msgs/RoomExplorationGoal.h
+Symlinking /home/taylor/room_exp/devel/include/ipa_building_msgs/RoomSequence.h
+Symlinking /home/taylor/room_exp/devel/include/ipa_building_msgs/RoomExplorationActionResult.h
+Symlinking /home/taylor/room_exp/devel/include/ipa_building_msgs/FindRoomSequenceWithCheckpointsActionFeedback.h
+Symlinking /home/taylor/room_exp/devel/include/ipa_building_msgs/MapSegmentationActionFeedback.h
+Symlinking /home/taylor/room_exp/devel/share/gennodejs/ros/ipa_building_msgs/_index.js
+Symlinking /home/taylor/room_exp/devel/share/gennodejs/ros/ipa_building_msgs/srv/_index.js
+Symlinking /home/taylor/room_exp/devel/share/gennodejs/ros/ipa_building_msgs/srv/ExtractAreaMapFromLabeledMap.js
+Symlinking /home/taylor/room_exp/devel/share/gennodejs/ros/ipa_building_msgs/srv/CheckCoverage.js
+Symlinking /home/taylor/room_exp/devel/share/gennodejs/ros/ipa_building_msgs/msg/RoomInformation.js
+Symlinking /home/taylor/room_exp/devel/share/gennodejs/ros/ipa_building_msgs/msg/RoomExplorationAction.js
+Symlinking /home/taylor/room_exp/devel/share/gennodejs/ros/ipa_building_msgs/msg/RoomExplorationFeedback.js
+Symlinking /home/taylor/room_exp/devel/share/gennodejs/ros/ipa_building_msgs/msg/RoomExplorationActionResult.js
+Symlinking /home/taylor/room_exp/devel/share/gennodejs/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsActionFeedback.js
+Symlinking /home/taylor/room_exp/devel/share/gennodejs/ros/ipa_building_msgs/msg/MapSegmentationAction.js
+Symlinking /home/taylor/room_exp/devel/share/gennodejs/ros/ipa_building_msgs/msg/MapSegmentationActionGoal.js
+Symlinking /home/taylor/room_exp/devel/share/gennodejs/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsResult.js
+Symlinking /home/taylor/room_exp/devel/share/gennodejs/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsAction.js
+Symlinking /home/taylor/room_exp/devel/share/gennodejs/ros/ipa_building_msgs/msg/MapSegmentationFeedback.js
+Symlinking /home/taylor/room_exp/devel/share/gennodejs/ros/ipa_building_msgs/msg/RoomExplorationGoal.js
+Symlinking /home/taylor/room_exp/devel/share/gennodejs/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsGoal.js
+Symlinking /home/taylor/room_exp/devel/share/gennodejs/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsFeedback.js
+Symlinking /home/taylor/room_exp/devel/share/gennodejs/ros/ipa_building_msgs/msg/MapSegmentationActionFeedback.js
+Symlinking /home/taylor/room_exp/devel/share/gennodejs/ros/ipa_building_msgs/msg/_index.js
+Symlinking /home/taylor/room_exp/devel/share/gennodejs/ros/ipa_building_msgs/msg/RoomSequence.js
+Symlinking /home/taylor/room_exp/devel/share/gennodejs/ros/ipa_building_msgs/msg/MapSegmentationResult.js
+Symlinking /home/taylor/room_exp/devel/share/gennodejs/ros/ipa_building_msgs/msg/RoomExplorationActionGoal.js
+Symlinking /home/taylor/room_exp/devel/share/gennodejs/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsActionResult.js
+Symlinking /home/taylor/room_exp/devel/share/gennodejs/ros/ipa_building_msgs/msg/MapSegmentationGoal.js
+Symlinking /home/taylor/room_exp/devel/share/gennodejs/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsActionGoal.js
+Symlinking /home/taylor/room_exp/devel/share/gennodejs/ros/ipa_building_msgs/msg/MapSegmentationActionResult.js
+Symlinking /home/taylor/room_exp/devel/share/gennodejs/ros/ipa_building_msgs/msg/RoomExplorationResult.js
+Symlinking /home/taylor/room_exp/devel/share/gennodejs/ros/ipa_building_msgs/msg/RoomExplorationActionFeedback.js
+Symlinking /home/taylor/room_exp/devel/share/ipa_building_msgs/msg/RoomExplorationActionResult.msg
+Symlinking /home/taylor/room_exp/devel/share/ipa_building_msgs/msg/MapSegmentationActionFeedback.msg
+Symlinking /home/taylor/room_exp/devel/share/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsGoal.msg
+Symlinking /home/taylor/room_exp/devel/share/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsActionResult.msg
+Symlinking /home/taylor/room_exp/devel/share/ipa_building_msgs/msg/MapSegmentationGoal.msg
+Symlinking /home/taylor/room_exp/devel/share/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsFeedback.msg
+Symlinking /home/taylor/room_exp/devel/share/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsResult.msg
+Symlinking /home/taylor/room_exp/devel/share/ipa_building_msgs/msg/MapSegmentationAction.msg
+Symlinking /home/taylor/room_exp/devel/share/ipa_building_msgs/msg/MapSegmentationActionResult.msg
+Symlinking /home/taylor/room_exp/devel/share/ipa_building_msgs/msg/MapSegmentationResult.msg
+Symlinking /home/taylor/room_exp/devel/share/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsAction.msg
+Symlinking /home/taylor/room_exp/devel/share/ipa_building_msgs/msg/RoomExplorationResult.msg
+Symlinking /home/taylor/room_exp/devel/share/ipa_building_msgs/msg/RoomExplorationActionFeedback.msg
+Symlinking /home/taylor/room_exp/devel/share/ipa_building_msgs/msg/RoomExplorationGoal.msg
+Symlinking /home/taylor/room_exp/devel/share/ipa_building_msgs/msg/RoomExplorationFeedback.msg
+Symlinking /home/taylor/room_exp/devel/share/ipa_building_msgs/msg/MapSegmentationFeedback.msg
+Symlinking /home/taylor/room_exp/devel/share/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsActionGoal.msg
+Symlinking /home/taylor/room_exp/devel/share/ipa_building_msgs/msg/RoomExplorationActionGoal.msg
+Symlinking /home/taylor/room_exp/devel/share/ipa_building_msgs/msg/MapSegmentationActionGoal.msg
+Symlinking /home/taylor/room_exp/devel/share/ipa_building_msgs/msg/RoomExplorationAction.msg
+Symlinking /home/taylor/room_exp/devel/share/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsActionFeedback.msg
+Symlinking /home/taylor/room_exp/devel/share/ipa_building_msgs/cmake/ipa_building_msgsConfig.cmake
+Symlinking /home/taylor/room_exp/devel/share/ipa_building_msgs/cmake/ipa_building_msgsConfig-version.cmake
+Symlinking /home/taylor/room_exp/devel/share/ipa_building_msgs/cmake/ipa_building_msgs-msg-extras.cmake
+Symlinking /home/taylor/room_exp/devel/share/ipa_building_msgs/cmake/ipa_building_msgs-msg-paths.cmake
+Symlinking /home/taylor/room_exp/devel/share/roseus/ros/ipa_building_msgs/manifest.l
+Symlinking /home/taylor/room_exp/devel/share/roseus/ros/ipa_building_msgs/srv/CheckCoverage.l
+Symlinking /home/taylor/room_exp/devel/share/roseus/ros/ipa_building_msgs/srv/ExtractAreaMapFromLabeledMap.l
+Symlinking /home/taylor/room_exp/devel/share/roseus/ros/ipa_building_msgs/msg/RoomExplorationResult.l
+Symlinking /home/taylor/room_exp/devel/share/roseus/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsActionGoal.l
+Symlinking /home/taylor/room_exp/devel/share/roseus/ros/ipa_building_msgs/msg/RoomSequence.l
+Symlinking /home/taylor/room_exp/devel/share/roseus/ros/ipa_building_msgs/msg/RoomExplorationAction.l
+Symlinking /home/taylor/room_exp/devel/share/roseus/ros/ipa_building_msgs/msg/MapSegmentationActionGoal.l
+Symlinking /home/taylor/room_exp/devel/share/roseus/ros/ipa_building_msgs/msg/RoomExplorationActionFeedback.l
+Symlinking /home/taylor/room_exp/devel/share/roseus/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsGoal.l
+Symlinking /home/taylor/room_exp/devel/share/roseus/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsActionFeedback.l
+Symlinking /home/taylor/room_exp/devel/share/roseus/ros/ipa_building_msgs/msg/MapSegmentationGoal.l
+Symlinking /home/taylor/room_exp/devel/share/roseus/ros/ipa_building_msgs/msg/RoomExplorationFeedback.l
+Symlinking /home/taylor/room_exp/devel/share/roseus/ros/ipa_building_msgs/msg/MapSegmentationActionResult.l
+Symlinking /home/taylor/room_exp/devel/share/roseus/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsFeedback.l
+Symlinking /home/taylor/room_exp/devel/share/roseus/ros/ipa_building_msgs/msg/RoomExplorationActionResult.l
+Symlinking /home/taylor/room_exp/devel/share/roseus/ros/ipa_building_msgs/msg/MapSegmentationActionFeedback.l
+Symlinking /home/taylor/room_exp/devel/share/roseus/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsAction.l
+Symlinking /home/taylor/room_exp/devel/share/roseus/ros/ipa_building_msgs/msg/MapSegmentationFeedback.l
+Symlinking /home/taylor/room_exp/devel/share/roseus/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsResult.l
+Symlinking /home/taylor/room_exp/devel/share/roseus/ros/ipa_building_msgs/msg/RoomInformation.l
+Symlinking /home/taylor/room_exp/devel/share/roseus/ros/ipa_building_msgs/msg/RoomExplorationActionGoal.l
+Symlinking /home/taylor/room_exp/devel/share/roseus/ros/ipa_building_msgs/msg/MapSegmentationAction.l
+Symlinking /home/taylor/room_exp/devel/share/roseus/ros/ipa_building_msgs/msg/RoomExplorationGoal.l
+Symlinking /home/taylor/room_exp/devel/share/roseus/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsActionResult.l
+Symlinking /home/taylor/room_exp/devel/share/roseus/ros/ipa_building_msgs/msg/MapSegmentationResult.l
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/srv/ipa_building_msgs-srv.asd
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/srv/_package.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/srv/CheckCoverage.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/srv/_package_CheckCoverage.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/srv/ExtractAreaMapFromLabeledMap.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/srv/_package_ExtractAreaMapFromLabeledMap.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_FindRoomSequenceWithCheckpointsGoal.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/msg/RoomExplorationResult.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_MapSegmentationFeedback.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_FindRoomSequenceWithCheckpointsResult.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_RoomInformation.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_MapSegmentationGoal.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/msg/MapSegmentationResult.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/msg/MapSegmentationActionFeedback.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_FindRoomSequenceWithCheckpointsAction.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_MapSegmentationActionFeedback.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/msg/RoomExplorationAction.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/msg/RoomExplorationActionFeedback.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsActionFeedback.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_RoomExplorationFeedback.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsFeedback.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_RoomExplorationGoal.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/msg/ipa_building_msgs-msg.asd
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/msg/RoomExplorationGoal.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/msg/MapSegmentationActionResult.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsAction.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_MapSegmentationAction.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsActionGoal.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_FindRoomSequenceWithCheckpointsActionFeedback.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/msg/MapSegmentationGoal.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/msg/MapSegmentationAction.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_MapSegmentationActionGoal.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_RoomExplorationActionResult.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/msg/RoomInformation.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_FindRoomSequenceWithCheckpointsActionGoal.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_RoomExplorationResult.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsActionResult.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_MapSegmentationResult.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/msg/RoomExplorationFeedback.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/msg/RoomExplorationActionGoal.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/msg/RoomExplorationActionResult.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_FindRoomSequenceWithCheckpointsFeedback.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_MapSegmentationActionResult.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsResult.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_RoomSequence.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_RoomExplorationAction.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/msg/MapSegmentationActionGoal.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_RoomExplorationActionGoal.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/msg/RoomSequence.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_FindRoomSequenceWithCheckpointsActionResult.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/msg/MapSegmentationFeedback.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsGoal.lisp
+Symlinking /home/taylor/room_exp/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_RoomExplorationActionFeedback.lisp
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/cmake.lock, /home/taylor/ipa_coverage_planning/devel/./cmake.lock)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/lib/pkgconfig/ipa_building_msgs.pc, /home/taylor/ipa_coverage_planning/devel/lib/pkgconfig/ipa_building_msgs.pc)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/lib/python3/dist-packages/ipa_building_msgs/__init__.py, /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/__init__.py)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/lib/python3/dist-packages/ipa_building_msgs/srv/_ExtractAreaMapFromLabeledMap.py, /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/srv/_ExtractAreaMapFromLabeledMap.py)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/lib/python3/dist-packages/ipa_building_msgs/srv/_CheckCoverage.py, /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/srv/_CheckCoverage.py)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/lib/python3/dist-packages/ipa_building_msgs/srv/__init__.py, /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/srv/__init__.py)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/lib/python3/dist-packages/ipa_building_msgs/msg/_RoomExplorationActionFeedback.py, /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_RoomExplorationActionFeedback.py)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/lib/python3/dist-packages/ipa_building_msgs/msg/_MapSegmentationGoal.py, /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_MapSegmentationGoal.py)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/lib/python3/dist-packages/ipa_building_msgs/msg/_RoomInformation.py, /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_RoomInformation.py)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/lib/python3/dist-packages/ipa_building_msgs/msg/_MapSegmentationActionResult.py, /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_MapSegmentationActionResult.py)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/lib/python3/dist-packages/ipa_building_msgs/msg/_FindRoomSequenceWithCheckpointsActionResult.py, /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_FindRoomSequenceWithCheckpointsActionResult.py)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/lib/python3/dist-packages/ipa_building_msgs/msg/_RoomExplorationActionGoal.py, /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_RoomExplorationActionGoal.py)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/lib/python3/dist-packages/ipa_building_msgs/msg/_FindRoomSequenceWithCheckpointsGoal.py, /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_FindRoomSequenceWithCheckpointsGoal.py)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/lib/python3/dist-packages/ipa_building_msgs/msg/_RoomExplorationAction.py, /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_RoomExplorationAction.py)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/lib/python3/dist-packages/ipa_building_msgs/msg/_MapSegmentationFeedback.py, /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_MapSegmentationFeedback.py)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/lib/python3/dist-packages/ipa_building_msgs/msg/_FindRoomSequenceWithCheckpointsAction.py, /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_FindRoomSequenceWithCheckpointsAction.py)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/lib/python3/dist-packages/ipa_building_msgs/msg/_MapSegmentationResult.py, /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_MapSegmentationResult.py)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/lib/python3/dist-packages/ipa_building_msgs/msg/_RoomExplorationGoal.py, /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_RoomExplorationGoal.py)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/lib/python3/dist-packages/ipa_building_msgs/msg/_RoomSequence.py, /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_RoomSequence.py)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/lib/python3/dist-packages/ipa_building_msgs/msg/_RoomExplorationActionResult.py, /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_RoomExplorationActionResult.py)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/lib/python3/dist-packages/ipa_building_msgs/msg/_MapSegmentationAction.py, /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_MapSegmentationAction.py)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/lib/python3/dist-packages/ipa_building_msgs/msg/_RoomExplorationFeedback.py, /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_RoomExplorationFeedback.py)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/lib/python3/dist-packages/ipa_building_msgs/msg/_FindRoomSequenceWithCheckpointsActionGoal.py, /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_FindRoomSequenceWithCheckpointsActionGoal.py)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/lib/python3/dist-packages/ipa_building_msgs/msg/_FindRoomSequenceWithCheckpointsResult.py, /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_FindRoomSequenceWithCheckpointsResult.py)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/lib/python3/dist-packages/ipa_building_msgs/msg/__init__.py, /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/msg/__init__.py)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/lib/python3/dist-packages/ipa_building_msgs/msg/_FindRoomSequenceWithCheckpointsFeedback.py, /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_FindRoomSequenceWithCheckpointsFeedback.py)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/lib/python3/dist-packages/ipa_building_msgs/msg/_RoomExplorationResult.py, /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_RoomExplorationResult.py)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/lib/python3/dist-packages/ipa_building_msgs/msg/_FindRoomSequenceWithCheckpointsActionFeedback.py, /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_FindRoomSequenceWithCheckpointsActionFeedback.py)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/lib/python3/dist-packages/ipa_building_msgs/msg/_MapSegmentationActionGoal.py, /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_MapSegmentationActionGoal.py)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/lib/python3/dist-packages/ipa_building_msgs/msg/_MapSegmentationActionFeedback.py, /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_MapSegmentationActionFeedback.py)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/include/ipa_building_msgs/FindRoomSequenceWithCheckpointsGoal.h, /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/FindRoomSequenceWithCheckpointsGoal.h)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/include/ipa_building_msgs/FindRoomSequenceWithCheckpointsActionGoal.h, /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/FindRoomSequenceWithCheckpointsActionGoal.h)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/include/ipa_building_msgs/ExtractAreaMapFromLabeledMapRequest.h, /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/ExtractAreaMapFromLabeledMapRequest.h)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/include/ipa_building_msgs/RoomInformation.h, /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/RoomInformation.h)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/include/ipa_building_msgs/ExtractAreaMapFromLabeledMapResponse.h, /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/ExtractAreaMapFromLabeledMapResponse.h)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/include/ipa_building_msgs/MapSegmentationActionGoal.h, /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/MapSegmentationActionGoal.h)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/include/ipa_building_msgs/MapSegmentationActionResult.h, /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/MapSegmentationActionResult.h)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/include/ipa_building_msgs/FindRoomSequenceWithCheckpointsFeedback.h, /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/FindRoomSequenceWithCheckpointsFeedback.h)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/include/ipa_building_msgs/MapSegmentationAction.h, /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/MapSegmentationAction.h)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/include/ipa_building_msgs/RoomExplorationResult.h, /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/RoomExplorationResult.h)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/include/ipa_building_msgs/FindRoomSequenceWithCheckpointsActionResult.h, /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/FindRoomSequenceWithCheckpointsActionResult.h)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/include/ipa_building_msgs/RoomExplorationActionFeedback.h, /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/RoomExplorationActionFeedback.h)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/include/ipa_building_msgs/ExtractAreaMapFromLabeledMap.h, /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/ExtractAreaMapFromLabeledMap.h)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/include/ipa_building_msgs/MapSegmentationResult.h, /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/MapSegmentationResult.h)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/include/ipa_building_msgs/RoomExplorationAction.h, /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/RoomExplorationAction.h)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/include/ipa_building_msgs/FindRoomSequenceWithCheckpointsResult.h, /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/FindRoomSequenceWithCheckpointsResult.h)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/include/ipa_building_msgs/RoomExplorationActionGoal.h, /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/RoomExplorationActionGoal.h)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/include/ipa_building_msgs/CheckCoverageResponse.h, /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/CheckCoverageResponse.h)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/include/ipa_building_msgs/MapSegmentationFeedback.h, /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/MapSegmentationFeedback.h)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/include/ipa_building_msgs/CheckCoverageRequest.h, /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/CheckCoverageRequest.h)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/include/ipa_building_msgs/FindRoomSequenceWithCheckpointsAction.h, /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/FindRoomSequenceWithCheckpointsAction.h)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/include/ipa_building_msgs/RoomExplorationFeedback.h, /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/RoomExplorationFeedback.h)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/include/ipa_building_msgs/CheckCoverage.h, /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/CheckCoverage.h)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/include/ipa_building_msgs/MapSegmentationGoal.h, /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/MapSegmentationGoal.h)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/include/ipa_building_msgs/RoomExplorationGoal.h, /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/RoomExplorationGoal.h)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/include/ipa_building_msgs/RoomSequence.h, /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/RoomSequence.h)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/include/ipa_building_msgs/RoomExplorationActionResult.h, /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/RoomExplorationActionResult.h)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/include/ipa_building_msgs/FindRoomSequenceWithCheckpointsActionFeedback.h, /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/FindRoomSequenceWithCheckpointsActionFeedback.h)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/include/ipa_building_msgs/MapSegmentationActionFeedback.h, /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/MapSegmentationActionFeedback.h)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/gennodejs/ros/ipa_building_msgs/_index.js, /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/_index.js)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/gennodejs/ros/ipa_building_msgs/srv/_index.js, /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/srv/_index.js)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/gennodejs/ros/ipa_building_msgs/srv/ExtractAreaMapFromLabeledMap.js, /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/srv/ExtractAreaMapFromLabeledMap.js)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/gennodejs/ros/ipa_building_msgs/srv/CheckCoverage.js, /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/srv/CheckCoverage.js)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/gennodejs/ros/ipa_building_msgs/msg/RoomInformation.js, /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/msg/RoomInformation.js)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/gennodejs/ros/ipa_building_msgs/msg/RoomExplorationAction.js, /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/msg/RoomExplorationAction.js)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/gennodejs/ros/ipa_building_msgs/msg/RoomExplorationFeedback.js, /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/msg/RoomExplorationFeedback.js)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/gennodejs/ros/ipa_building_msgs/msg/RoomExplorationActionResult.js, /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/msg/RoomExplorationActionResult.js)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/gennodejs/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsActionFeedback.js, /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsActionFeedback.js)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/gennodejs/ros/ipa_building_msgs/msg/MapSegmentationAction.js, /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/msg/MapSegmentationAction.js)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/gennodejs/ros/ipa_building_msgs/msg/MapSegmentationActionGoal.js, /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/msg/MapSegmentationActionGoal.js)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/gennodejs/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsResult.js, /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsResult.js)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/gennodejs/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsAction.js, /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsAction.js)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/gennodejs/ros/ipa_building_msgs/msg/MapSegmentationFeedback.js, /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/msg/MapSegmentationFeedback.js)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/gennodejs/ros/ipa_building_msgs/msg/RoomExplorationGoal.js, /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/msg/RoomExplorationGoal.js)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/gennodejs/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsGoal.js, /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsGoal.js)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/gennodejs/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsFeedback.js, /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsFeedback.js)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/gennodejs/ros/ipa_building_msgs/msg/MapSegmentationActionFeedback.js, /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/msg/MapSegmentationActionFeedback.js)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/gennodejs/ros/ipa_building_msgs/msg/_index.js, /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/msg/_index.js)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/gennodejs/ros/ipa_building_msgs/msg/RoomSequence.js, /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/msg/RoomSequence.js)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/gennodejs/ros/ipa_building_msgs/msg/MapSegmentationResult.js, /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/msg/MapSegmentationResult.js)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/gennodejs/ros/ipa_building_msgs/msg/RoomExplorationActionGoal.js, /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/msg/RoomExplorationActionGoal.js)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/gennodejs/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsActionResult.js, /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsActionResult.js)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/gennodejs/ros/ipa_building_msgs/msg/MapSegmentationGoal.js, /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/msg/MapSegmentationGoal.js)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/gennodejs/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsActionGoal.js, /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsActionGoal.js)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/gennodejs/ros/ipa_building_msgs/msg/MapSegmentationActionResult.js, /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/msg/MapSegmentationActionResult.js)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/gennodejs/ros/ipa_building_msgs/msg/RoomExplorationResult.js, /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/msg/RoomExplorationResult.js)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/gennodejs/ros/ipa_building_msgs/msg/RoomExplorationActionFeedback.js, /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/msg/RoomExplorationActionFeedback.js)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/ipa_building_msgs/msg/RoomExplorationActionResult.msg, /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/msg/RoomExplorationActionResult.msg)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/ipa_building_msgs/msg/MapSegmentationActionFeedback.msg, /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/msg/MapSegmentationActionFeedback.msg)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsGoal.msg, /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsGoal.msg)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsActionResult.msg, /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsActionResult.msg)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/ipa_building_msgs/msg/MapSegmentationGoal.msg, /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/msg/MapSegmentationGoal.msg)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsFeedback.msg, /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsFeedback.msg)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsResult.msg, /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsResult.msg)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/ipa_building_msgs/msg/MapSegmentationAction.msg, /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/msg/MapSegmentationAction.msg)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/ipa_building_msgs/msg/MapSegmentationActionResult.msg, /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/msg/MapSegmentationActionResult.msg)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/ipa_building_msgs/msg/MapSegmentationResult.msg, /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/msg/MapSegmentationResult.msg)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsAction.msg, /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsAction.msg)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/ipa_building_msgs/msg/RoomExplorationResult.msg, /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/msg/RoomExplorationResult.msg)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/ipa_building_msgs/msg/RoomExplorationActionFeedback.msg, /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/msg/RoomExplorationActionFeedback.msg)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/ipa_building_msgs/msg/RoomExplorationGoal.msg, /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/msg/RoomExplorationGoal.msg)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/ipa_building_msgs/msg/RoomExplorationFeedback.msg, /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/msg/RoomExplorationFeedback.msg)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/ipa_building_msgs/msg/MapSegmentationFeedback.msg, /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/msg/MapSegmentationFeedback.msg)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsActionGoal.msg, /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsActionGoal.msg)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/ipa_building_msgs/msg/RoomExplorationActionGoal.msg, /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/msg/RoomExplorationActionGoal.msg)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/ipa_building_msgs/msg/MapSegmentationActionGoal.msg, /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/msg/MapSegmentationActionGoal.msg)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/ipa_building_msgs/msg/RoomExplorationAction.msg, /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/msg/RoomExplorationAction.msg)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsActionFeedback.msg, /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsActionFeedback.msg)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/ipa_building_msgs/cmake/ipa_building_msgsConfig.cmake, /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/cmake/ipa_building_msgsConfig.cmake)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/ipa_building_msgs/cmake/ipa_building_msgsConfig-version.cmake, /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/cmake/ipa_building_msgsConfig-version.cmake)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/ipa_building_msgs/cmake/ipa_building_msgs-msg-extras.cmake, /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/cmake/ipa_building_msgs-msg-extras.cmake)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/ipa_building_msgs/cmake/ipa_building_msgs-msg-paths.cmake, /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/cmake/ipa_building_msgs-msg-paths.cmake)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/roseus/ros/ipa_building_msgs/manifest.l, /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/manifest.l)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/roseus/ros/ipa_building_msgs/srv/CheckCoverage.l, /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/srv/CheckCoverage.l)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/roseus/ros/ipa_building_msgs/srv/ExtractAreaMapFromLabeledMap.l, /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/srv/ExtractAreaMapFromLabeledMap.l)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/roseus/ros/ipa_building_msgs/msg/RoomExplorationResult.l, /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/msg/RoomExplorationResult.l)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/roseus/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsActionGoal.l, /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsActionGoal.l)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/roseus/ros/ipa_building_msgs/msg/RoomSequence.l, /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/msg/RoomSequence.l)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/roseus/ros/ipa_building_msgs/msg/RoomExplorationAction.l, /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/msg/RoomExplorationAction.l)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/roseus/ros/ipa_building_msgs/msg/MapSegmentationActionGoal.l, /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/msg/MapSegmentationActionGoal.l)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/roseus/ros/ipa_building_msgs/msg/RoomExplorationActionFeedback.l, /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/msg/RoomExplorationActionFeedback.l)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/roseus/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsGoal.l, /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsGoal.l)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/roseus/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsActionFeedback.l, /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsActionFeedback.l)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/roseus/ros/ipa_building_msgs/msg/MapSegmentationGoal.l, /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/msg/MapSegmentationGoal.l)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/roseus/ros/ipa_building_msgs/msg/RoomExplorationFeedback.l, /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/msg/RoomExplorationFeedback.l)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/roseus/ros/ipa_building_msgs/msg/MapSegmentationActionResult.l, /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/msg/MapSegmentationActionResult.l)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/roseus/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsFeedback.l, /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsFeedback.l)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/roseus/ros/ipa_building_msgs/msg/RoomExplorationActionResult.l, /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/msg/RoomExplorationActionResult.l)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/roseus/ros/ipa_building_msgs/msg/MapSegmentationActionFeedback.l, /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/msg/MapSegmentationActionFeedback.l)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/roseus/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsAction.l, /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsAction.l)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/roseus/ros/ipa_building_msgs/msg/MapSegmentationFeedback.l, /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/msg/MapSegmentationFeedback.l)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/roseus/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsResult.l, /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsResult.l)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/roseus/ros/ipa_building_msgs/msg/RoomInformation.l, /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/msg/RoomInformation.l)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/roseus/ros/ipa_building_msgs/msg/RoomExplorationActionGoal.l, /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/msg/RoomExplorationActionGoal.l)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/roseus/ros/ipa_building_msgs/msg/MapSegmentationAction.l, /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/msg/MapSegmentationAction.l)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/roseus/ros/ipa_building_msgs/msg/RoomExplorationGoal.l, /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/msg/RoomExplorationGoal.l)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/roseus/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsActionResult.l, /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsActionResult.l)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/roseus/ros/ipa_building_msgs/msg/MapSegmentationResult.l, /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/msg/MapSegmentationResult.l)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/srv/ipa_building_msgs-srv.asd, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/srv/ipa_building_msgs-srv.asd)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/srv/_package.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/srv/_package.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/srv/CheckCoverage.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/srv/CheckCoverage.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/srv/_package_CheckCoverage.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/srv/_package_CheckCoverage.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/srv/ExtractAreaMapFromLabeledMap.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/srv/ExtractAreaMapFromLabeledMap.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/srv/_package_ExtractAreaMapFromLabeledMap.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/srv/_package_ExtractAreaMapFromLabeledMap.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/msg/_package_FindRoomSequenceWithCheckpointsGoal.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_FindRoomSequenceWithCheckpointsGoal.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/msg/RoomExplorationResult.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/RoomExplorationResult.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/msg/_package_MapSegmentationFeedback.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_MapSegmentationFeedback.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/msg/_package_FindRoomSequenceWithCheckpointsResult.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_FindRoomSequenceWithCheckpointsResult.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/msg/_package_RoomInformation.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_RoomInformation.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/msg/_package_MapSegmentationGoal.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_MapSegmentationGoal.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/msg/MapSegmentationResult.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/MapSegmentationResult.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/msg/MapSegmentationActionFeedback.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/MapSegmentationActionFeedback.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/msg/_package_FindRoomSequenceWithCheckpointsAction.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_FindRoomSequenceWithCheckpointsAction.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/msg/_package_MapSegmentationActionFeedback.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_MapSegmentationActionFeedback.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/msg/RoomExplorationAction.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/RoomExplorationAction.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/msg/RoomExplorationActionFeedback.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/RoomExplorationActionFeedback.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsActionFeedback.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsActionFeedback.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/msg/_package.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/msg/_package_RoomExplorationFeedback.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_RoomExplorationFeedback.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsFeedback.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsFeedback.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/msg/_package_RoomExplorationGoal.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_RoomExplorationGoal.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/msg/ipa_building_msgs-msg.asd, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/ipa_building_msgs-msg.asd)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/msg/RoomExplorationGoal.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/RoomExplorationGoal.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/msg/MapSegmentationActionResult.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/MapSegmentationActionResult.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsAction.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsAction.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/msg/_package_MapSegmentationAction.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_MapSegmentationAction.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsActionGoal.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsActionGoal.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/msg/_package_FindRoomSequenceWithCheckpointsActionFeedback.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_FindRoomSequenceWithCheckpointsActionFeedback.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/msg/MapSegmentationGoal.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/MapSegmentationGoal.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/msg/MapSegmentationAction.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/MapSegmentationAction.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/msg/_package_MapSegmentationActionGoal.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_MapSegmentationActionGoal.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/msg/_package_RoomExplorationActionResult.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_RoomExplorationActionResult.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/msg/RoomInformation.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/RoomInformation.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/msg/_package_FindRoomSequenceWithCheckpointsActionGoal.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_FindRoomSequenceWithCheckpointsActionGoal.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/msg/_package_RoomExplorationResult.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_RoomExplorationResult.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsActionResult.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsActionResult.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/msg/_package_MapSegmentationResult.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_MapSegmentationResult.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/msg/RoomExplorationFeedback.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/RoomExplorationFeedback.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/msg/RoomExplorationActionGoal.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/RoomExplorationActionGoal.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/msg/RoomExplorationActionResult.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/RoomExplorationActionResult.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/msg/_package_FindRoomSequenceWithCheckpointsFeedback.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_FindRoomSequenceWithCheckpointsFeedback.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/msg/_package_MapSegmentationActionResult.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_MapSegmentationActionResult.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsResult.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsResult.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/msg/_package_RoomSequence.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_RoomSequence.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/msg/_package_RoomExplorationAction.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_RoomExplorationAction.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/msg/MapSegmentationActionGoal.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/MapSegmentationActionGoal.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/msg/_package_RoomExplorationActionGoal.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_RoomExplorationActionGoal.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/msg/RoomSequence.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/RoomSequence.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/msg/_package_FindRoomSequenceWithCheckpointsActionResult.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_FindRoomSequenceWithCheckpointsActionResult.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/msg/MapSegmentationFeedback.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/MapSegmentationFeedback.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsGoal.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsGoal.lisp)
+Cleaning: (/home/taylor/ipa_coverage_planning/devel/.private/ipa_building_msgs/share/common-lisp/ros/ipa_building_msgs/msg/_package_RoomExplorationActionFeedback.lisp, /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_RoomExplorationActionFeedback.lisp)
+Unlinking: /home/taylor/ipa_coverage_planning/devel/lib/pkgconfig/ipa_building_msgs.pc
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/__init__.py
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/srv/_ExtractAreaMapFromLabeledMap.py
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/srv/_CheckCoverage.py
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/srv/__init__.py
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_RoomExplorationActionFeedback.py
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_MapSegmentationGoal.py
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_RoomInformation.py
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_MapSegmentationActionResult.py
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_FindRoomSequenceWithCheckpointsActionResult.py
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_RoomExplorationActionGoal.py
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_FindRoomSequenceWithCheckpointsGoal.py
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_RoomExplorationAction.py
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_MapSegmentationFeedback.py
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_FindRoomSequenceWithCheckpointsAction.py
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_MapSegmentationResult.py
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_RoomExplorationGoal.py
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_RoomSequence.py
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_RoomExplorationActionResult.py
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_MapSegmentationAction.py
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_RoomExplorationFeedback.py
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_FindRoomSequenceWithCheckpointsActionGoal.py
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_FindRoomSequenceWithCheckpointsResult.py
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/msg/__init__.py
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_FindRoomSequenceWithCheckpointsFeedback.py
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_RoomExplorationResult.py
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_FindRoomSequenceWithCheckpointsActionFeedback.py
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_MapSegmentationActionGoal.py
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/lib/python3/dist-packages/ipa_building_msgs/msg/_MapSegmentationActionFeedback.py
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/FindRoomSequenceWithCheckpointsGoal.h
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/FindRoomSequenceWithCheckpointsActionGoal.h
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/ExtractAreaMapFromLabeledMapRequest.h
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/RoomInformation.h
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/ExtractAreaMapFromLabeledMapResponse.h
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/MapSegmentationActionGoal.h
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/MapSegmentationActionResult.h
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/FindRoomSequenceWithCheckpointsFeedback.h
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/MapSegmentationAction.h
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/RoomExplorationResult.h
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/FindRoomSequenceWithCheckpointsActionResult.h
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/RoomExplorationActionFeedback.h
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/ExtractAreaMapFromLabeledMap.h
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/MapSegmentationResult.h
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/RoomExplorationAction.h
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/FindRoomSequenceWithCheckpointsResult.h
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/RoomExplorationActionGoal.h
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/CheckCoverageResponse.h
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/MapSegmentationFeedback.h
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/CheckCoverageRequest.h
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/FindRoomSequenceWithCheckpointsAction.h
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/RoomExplorationFeedback.h
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/CheckCoverage.h
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/MapSegmentationGoal.h
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/RoomExplorationGoal.h
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/RoomSequence.h
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/RoomExplorationActionResult.h
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/FindRoomSequenceWithCheckpointsActionFeedback.h
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/include/ipa_building_msgs/MapSegmentationActionFeedback.h
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/_index.js
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/srv/_index.js
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/srv/ExtractAreaMapFromLabeledMap.js
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/srv/CheckCoverage.js
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/msg/RoomInformation.js
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/msg/RoomExplorationAction.js
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/msg/RoomExplorationFeedback.js
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/msg/RoomExplorationActionResult.js
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsActionFeedback.js
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/msg/MapSegmentationAction.js
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/msg/MapSegmentationActionGoal.js
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsResult.js
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsAction.js
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/msg/MapSegmentationFeedback.js
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/msg/RoomExplorationGoal.js
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsGoal.js
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsFeedback.js
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/msg/MapSegmentationActionFeedback.js
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/msg/_index.js
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/msg/RoomSequence.js
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/msg/MapSegmentationResult.js
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/msg/RoomExplorationActionGoal.js
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsActionResult.js
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/msg/MapSegmentationGoal.js
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsActionGoal.js
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/msg/MapSegmentationActionResult.js
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/msg/RoomExplorationResult.js
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/gennodejs/ros/ipa_building_msgs/msg/RoomExplorationActionFeedback.js
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/msg/RoomExplorationActionResult.msg
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/msg/MapSegmentationActionFeedback.msg
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsGoal.msg
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsActionResult.msg
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/msg/MapSegmentationGoal.msg
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsFeedback.msg
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsResult.msg
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/msg/MapSegmentationAction.msg
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/msg/MapSegmentationActionResult.msg
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/msg/MapSegmentationResult.msg
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsAction.msg
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/msg/RoomExplorationResult.msg
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/msg/RoomExplorationActionFeedback.msg
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/msg/RoomExplorationGoal.msg
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/msg/RoomExplorationFeedback.msg
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/msg/MapSegmentationFeedback.msg
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsActionGoal.msg
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/msg/RoomExplorationActionGoal.msg
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/msg/MapSegmentationActionGoal.msg
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/msg/RoomExplorationAction.msg
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsActionFeedback.msg
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/cmake/ipa_building_msgsConfig.cmake
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/cmake/ipa_building_msgsConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/cmake/ipa_building_msgs-msg-extras.cmake
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/ipa_building_msgs/cmake/ipa_building_msgs-msg-paths.cmake
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/manifest.l
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/srv/CheckCoverage.l
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/srv/ExtractAreaMapFromLabeledMap.l
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/msg/RoomExplorationResult.l
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsActionGoal.l
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/msg/RoomSequence.l
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/msg/RoomExplorationAction.l
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/msg/MapSegmentationActionGoal.l
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/msg/RoomExplorationActionFeedback.l
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsGoal.l
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsActionFeedback.l
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/msg/MapSegmentationGoal.l
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/msg/RoomExplorationFeedback.l
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/msg/MapSegmentationActionResult.l
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsFeedback.l
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/msg/RoomExplorationActionResult.l
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/msg/MapSegmentationActionFeedback.l
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsAction.l
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/msg/MapSegmentationFeedback.l
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsResult.l
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/msg/RoomInformation.l
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/msg/RoomExplorationActionGoal.l
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/msg/MapSegmentationAction.l
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/msg/RoomExplorationGoal.l
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsActionResult.l
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/roseus/ros/ipa_building_msgs/msg/MapSegmentationResult.l
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/srv/ipa_building_msgs-srv.asd
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/srv/_package.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/srv/CheckCoverage.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/srv/_package_CheckCoverage.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/srv/ExtractAreaMapFromLabeledMap.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/srv/_package_ExtractAreaMapFromLabeledMap.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_FindRoomSequenceWithCheckpointsGoal.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/RoomExplorationResult.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_MapSegmentationFeedback.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_FindRoomSequenceWithCheckpointsResult.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_RoomInformation.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_MapSegmentationGoal.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/MapSegmentationResult.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/MapSegmentationActionFeedback.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_FindRoomSequenceWithCheckpointsAction.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_MapSegmentationActionFeedback.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/RoomExplorationAction.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/RoomExplorationActionFeedback.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsActionFeedback.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_RoomExplorationFeedback.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsFeedback.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_RoomExplorationGoal.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/ipa_building_msgs-msg.asd
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/RoomExplorationGoal.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/MapSegmentationActionResult.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsAction.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_MapSegmentationAction.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsActionGoal.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_FindRoomSequenceWithCheckpointsActionFeedback.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/MapSegmentationGoal.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/MapSegmentationAction.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_MapSegmentationActionGoal.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_RoomExplorationActionResult.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/RoomInformation.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_FindRoomSequenceWithCheckpointsActionGoal.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_RoomExplorationResult.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsActionResult.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_MapSegmentationResult.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/RoomExplorationFeedback.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/RoomExplorationActionGoal.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/RoomExplorationActionResult.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_FindRoomSequenceWithCheckpointsFeedback.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_MapSegmentationActionResult.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsResult.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_RoomSequence.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_RoomExplorationAction.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/MapSegmentationActionGoal.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_RoomExplorationActionGoal.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/RoomSequence.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_FindRoomSequenceWithCheckpointsActionResult.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/MapSegmentationFeedback.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/FindRoomSequenceWithCheckpointsGoal.lisp
+Already unlinked: {}
+Unlinking: /home/taylor/ipa_coverage_planning/devel/share/common-lisp/ros/ipa_building_msgs/msg/_package_RoomExplorationActionFeedback.lisp
+Already unlinked: {}
