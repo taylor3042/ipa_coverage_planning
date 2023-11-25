@@ -34,6 +34,7 @@ set(osi-clp_DIR /usr/lib/x86_64/cmake/coinor)
 set(osi-clp_LIBRARIES osi-clp)
 find_package(catkin REQUIRED COMPONENTS
 	${catkin_BUILD_PACKAGES}
+	laser_filters
 )
 
 generate_dynamic_reconfigure_options(
@@ -43,7 +44,7 @@ generate_dynamic_reconfigure_options(
 
 find_package(OpenCV REQUIRED)
 find_package(Boost REQUIRED COMPONENTS system chrono thread)
-
+find_package(laser_filters)
 find_package(Eigen3)
 if(NOT EIGEN3_FOUND)
 	# Fallback to cmake_modules

@@ -5,8 +5,11 @@
 <arg name="port_name" default="/dev/ttyUSB0"/>
 <arg name="port_baudrate" default="230400"/>
 <arg name="fix_to_base_link" default="true"/>
+<arg name="encrop" default="true"/>
+<arg name="angle_min" default="0.0"/>
+<arg name="angle_max" default="1.6"/>
 
- <!-- ldldiar message publisher node -->
+ <!-- ldldiar message publisher node TDO: https://github.com/iralabdisco/ira_laser_tools -->
  <node name="LD19" pkg="ipa_room_exploration" type="ipa_room_exploration_node" output="screen" >
   <param name="product_name" value="LDLiDAR_LD19"/>
   <param name="topic_name" value="$(arg topic_name)"/>
@@ -16,12 +19,18 @@
 
   <param name="laser_scan_dir" type="bool" value="true"/>
 
-  <param name="enable_angle_crop_func" type="bool" value="false"/>
+  <param name="enable_angle_crop_func" type="bool" value="$(arg encrop)"/>
 
-  <param name="angle_crop_min" type="double" value="135.0"/>
-  <param name="angle_crop_max" type="double" value="225.0"/>
+  <param name="angle_crop_min" type="double" value="$(arg angle_min)"/>
+  <param name="angle_crop_max" type="double" value="$(arg angle_max)"/>
  </node>
 <node name="base_to_laser" pkg="tf" type="static_transform_publisher"  args="0.0 0.0 0.18 0 0.0 0.0 base_link base_laser 50"/>
+
+<node pkg="laser_filters" type="scan_to_scan_filter_chain"
+      name="laser_filter">
+    <rosparam command="load" file="$(find ipa_room_exploration)/ros/launch/laser_config.yaml" />
+    <remap from="scan" to="base_scan" />
+  </node>
 
 
 	<node pkg="rviz" type="rviz" name="rviz"  args="-d $(find ipa_room_exploration)/rviz/ldlidar_noetic.rviz" required="true"/>
